@@ -13,6 +13,7 @@
   --pf-c-kebab__menu--BorderColor: var(--pf-global--dark--BorderColor);
   --pf-c-kebab__label--hover--Color: var(--pf-global--link--hover--Color);
   --pf-c-kebab__label--Padding: var(--pf-global--spacer--xxs);
+  --pf-c-kebab__menu--MinWidth: 12em;
   --pf-c-kebab__menu--ArrowWidth: .5em;
   --pf-c-kebab__menu--ArrowBorder: calc(var(--pf-c-kebab__menu--ArrowWidth) + calc(1.41421 * var(--pf-c-kebab__menu--BorderWidth)));
   --pf-c-kebab__menu--BackgroundColor: var(--pf-global--light--BackgroundColor);
@@ -64,6 +65,7 @@
   top: var(--pf-c-kebab__menu--Top);
   left: var(--pf-c-kebab__menu--Left);
   display: none;
+  min-width: var(--pf-c-kebab__menu--MinWidth, 12em);
   background-color: var(--pf-c-kebab__menu--BackgroundColor, #fff);
   border: var(--pf-c-kebab__menu--BorderWidth, 1px) solid var(--pf-c-kebab__menu--BorderColor, #bbb);
   transform: translateX(var(--pf-c-kebab__menu--Transform));

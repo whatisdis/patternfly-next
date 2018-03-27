@@ -153,7 +153,9 @@
   .pf-l-stack,
   .pf-l-stack > *,
   .pf-l-page,
-  .pf-l-page > * {
+  .pf-l-page > * ,
+  .pf-l-toolbar,
+  .pf-l-toolbar > * {
     border: 2px dashed #393f44;
     padding: 0.5rem;
   }

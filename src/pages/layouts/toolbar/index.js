@@ -2,24 +2,22 @@ import React from 'react';
 import Documentation from '@siteComponents/Documentation';
 import Example from '@siteComponents/Example';
 import Toolbar, { ToolbarGroup, Docs } from '@layouts/Toolbar';
-import Button from '@components/Button';
-import Kebab from '@components/Kebab';
 
 export default () => {
   return (
-    <Documentation docs={Docs}>
+    <Documentation docs={Docs} className="is-layout-page">
       <Example heading="Toolbar Example">
         <Toolbar>
           <ToolbarGroup>
-            <span>First child</span>
-            <span>Second child</span>
+            <span>Content</span>
+            <span>Content</span>
           </ToolbarGroup>
           <ToolbarGroup>
-            <Button className="pf-is-primary">Button</Button>
-            <Button className="pf-is-tertiary">Button</Button>
+            <span>Content</span>
+            <span>Content</span>
           </ToolbarGroup>
           <ToolbarGroup>
-              <Kebab><div>Example text in a kebab menu</div></Kebab>
+            <span>Content</span>
           </ToolbarGroup>
         </Toolbar>
       </Example>
