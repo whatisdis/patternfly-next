@@ -57,8 +57,8 @@
       "path---components-button-examples-full-3f12076ca29e5b973bd5.js.map"
     ],
     "path---": [
-      "path----99377337ff4f911fc9ec.js",
-      "path----99377337ff4f911fc9ec.js.map"
+      "path----cca5b4f1bb4291f5ef36.js",
+      "path----cca5b4f1bb4291f5ef36.js.map"
     ],
     "path---layouts-grid-examples": [
       "path---layouts-grid-examples-9e46cd502df93acda0b1.js",
@@ -112,6 +112,10 @@
       "path---layouts-docs-docs-e7482fd4296daef2d916.js",
       "path---layouts-docs-docs-e7482fd4296daef2d916.js.map"
     ],
+    "component---src-patternfly-components-title-examples-index-js": [
+      "component---src-patternfly-components-title-examples-index-js-4035a7aa747edcf3367f.js",
+      "component---src-patternfly-components-title-examples-index-js-4035a7aa747edcf3367f.js.map"
+    ],
     "component---src-patternfly-components-index-js": [
       "component---src-patternfly-components-index-js-a70c6c9e1a8efdc2a333.js",
       "component---src-patternfly-components-index-js-a70c6c9e1a8efdc2a333.js.map"
@@ -127,6 +131,10 @@
     "component---src-site-pages-demos-dashboard-index-js": [
       "component---src-site-pages-demos-dashboard-index-js-e20b2ebb2d5e4026b5ff.js",
       "component---src-site-pages-demos-dashboard-index-js-e20b2ebb2d5e4026b5ff.js.map"
+    ],
+    "path---components-title-examples-full": [
+      "path---components-title-examples-full-71be788db861feb80daa.js",
+      "path---components-title-examples-full-71be788db861feb80daa.js.map"
     ],
     "path---patterns": [
       "path---patterns-c2446467957ec8d7cdc7.js",
@@ -145,8 +153,8 @@
       "path---layouts-page-examples-8ea9c52b29085e815e85.js.map"
     ],
     "component---src-site-layouts-index-js": [
-      "component---src-site-layouts-index-js-b7082b0688f7a3e68d7a.js",
-      "component---src-site-layouts-index-js-b7082b0688f7a3e68d7a.js.map"
+      "component---src-site-layouts-index-js-7c189cfeb3a3b6828ded.js",
+      "component---src-site-layouts-index-js-7c189cfeb3a3b6828ded.js.map"
     ],
     "commons": [
       "commons-d6d251a8bd4609671510.js",
@@ -207,8 +215,8 @@
       "path---react-reference-a493eb80c701e0b7527c.js.map"
     ],
     "app": [
-      "app-736a5d49157653cff080.js",
-      "app-736a5d49157653cff080.js.map"
+      "app-f8ba64dbc587710b566a.js",
+      "app-f8ba64dbc587710b566a.js.map"
     ],
     "path---components-content-examples": [
       "path---components-content-examples-7bee90a4351a1ee1c1b7.js",
@@ -217,6 +225,10 @@
     "path---components-alert-examples-full": [
       "path---components-alert-examples-full-e678edddd385c168fdcb.js",
       "path---components-alert-examples-full-e678edddd385c168fdcb.js.map"
+    ],
+    "path---components-title-examples": [
+      "path---components-title-examples-71be788db861feb80daa.js",
+      "path---components-title-examples-71be788db861feb80daa.js.map"
     ],
     "path---guidelines": [
       "path---guidelines-6378fed1ce6c60c288f5.js",
