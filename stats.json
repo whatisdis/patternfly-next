@@ -16,6 +16,10 @@
       "path---components-alert-examples-e678edddd385c168fdcb.js",
       "path---components-alert-examples-e678edddd385c168fdcb.js.map"
     ],
+    "component---src-patternfly-demos-dashboard-index-js": [
+      "component---src-patternfly-demos-dashboard-index-js-2b3a7999504847a30629.js",
+      "component---src-patternfly-demos-dashboard-index-js-2b3a7999504847a30629.js.map"
+    ],
     "component---src-patternfly-layouts-grid-examples-index-js": [
       "component---src-patternfly-layouts-grid-examples-index-js-52fc4357504456f47059.js",
       "component---src-patternfly-layouts-grid-examples-index-js-52fc4357504456f47059.js.map"
@@ -57,8 +61,8 @@
       "path---components-button-examples-full-3f12076ca29e5b973bd5.js.map"
     ],
     "path---": [
-      "path----cca5b4f1bb4291f5ef36.js",
-      "path----cca5b4f1bb4291f5ef36.js.map"
+      "path----11cd14499f6aacd576f1.js",
+      "path----11cd14499f6aacd576f1.js.map"
     ],
     "path---layouts-grid-examples": [
       "path---layouts-grid-examples-9e46cd502df93acda0b1.js",
@@ -128,10 +132,6 @@
       "path---index-a502f2399c186c170879.js",
       "path---index-a502f2399c186c170879.js.map"
     ],
-    "component---src-site-pages-demos-dashboard-index-js": [
-      "component---src-site-pages-demos-dashboard-index-js-e20b2ebb2d5e4026b5ff.js",
-      "component---src-site-pages-demos-dashboard-index-js-e20b2ebb2d5e4026b5ff.js.map"
-    ],
     "path---components-title-examples-full": [
       "path---components-title-examples-full-71be788db861feb80daa.js",
       "path---components-title-examples-full-71be788db861feb80daa.js.map"
@@ -153,8 +153,8 @@
       "path---layouts-page-examples-8ea9c52b29085e815e85.js.map"
     ],
     "component---src-site-layouts-index-js": [
-      "component---src-site-layouts-index-js-7c189cfeb3a3b6828ded.js",
-      "component---src-site-layouts-index-js-7c189cfeb3a3b6828ded.js.map"
+      "component---src-site-layouts-index-js-2893ff174b7bbb57413b.js",
+      "component---src-site-layouts-index-js-2893ff174b7bbb57413b.js.map"
     ],
     "commons": [
       "commons-d6d251a8bd4609671510.js",
@@ -210,13 +210,9 @@
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js",
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js.map"
     ],
-    "path---react-reference": [
-      "path---react-reference-a493eb80c701e0b7527c.js",
-      "path---react-reference-a493eb80c701e0b7527c.js.map"
-    ],
     "app": [
-      "app-f8ba64dbc587710b566a.js",
-      "app-f8ba64dbc587710b566a.js.map"
+      "app-05db1cb880883329687a.js",
+      "app-05db1cb880883329687a.js.map"
     ],
     "path---components-content-examples": [
       "path---components-content-examples-7bee90a4351a1ee1c1b7.js",
