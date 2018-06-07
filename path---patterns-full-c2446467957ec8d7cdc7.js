@@ -1,2 +1,2 @@
-webpackJsonp([0x95800d625fdf],{543:function(t,e){t.exports={pathContext:{type:"category",category:"patterns",slug:"",name:"",title:""}}}});
+webpackJsonp([0x95800d625fdf],{545:function(t,e){t.exports={pathContext:{type:"category",category:"patterns",slug:"",name:"",title:""}}}});
 //# sourceMappingURL=path---patterns-full-c2446467957ec8d7cdc7.js.map

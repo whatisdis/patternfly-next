@@ -69,8 +69,8 @@
       "path---components-button-examples-full-3f12076ca29e5b973bd5.js.map"
     ],
     "path---": [
-      "path----ff8f8a2953cd024d3629.js",
-      "path----ff8f8a2953cd024d3629.js.map"
+      "path----752fe1ca26090caea3e3.js",
+      "path----752fe1ca26090caea3e3.js.map"
     ],
     "path---layouts-grid-examples": [
       "path---layouts-grid-examples-9e46cd502df93acda0b1.js",
@@ -119,6 +119,10 @@
     "path---layouts-gallery-examples": [
       "path---layouts-gallery-examples-ee25c37064d1c95fcb65.js",
       "path---layouts-gallery-examples-ee25c37064d1c95fcb65.js.map"
+    ],
+    "path---modifiers": [
+      "path---modifiers-d71ffaee28a48e948408.js",
+      "path---modifiers-d71ffaee28a48e948408.js.map"
     ],
     "path---layouts-alignment-examples": [
       "path---layouts-alignment-examples-bc4468fad8d0dc0dd285.js",
@@ -189,8 +193,8 @@
       "path---layouts-page-examples-8ea9c52b29085e815e85.js.map"
     ],
     "component---src-site-layouts-index-js": [
-      "component---src-site-layouts-index-js-daf84cc083ef3392d8fe.js",
-      "component---src-site-layouts-index-js-daf84cc083ef3392d8fe.js.map"
+      "component---src-site-layouts-index-js-b0c4c586a00fd2ac5076.js",
+      "component---src-site-layouts-index-js-b0c4c586a00fd2ac5076.js.map"
     ],
     "commons": [
       "commons-1326e9bb79544b8626fc.js",
@@ -271,8 +275,8 @@
       "path---components-form-examples-full-b33ddbb3299a54b39964.js.map"
     ],
     "app": [
-      "app-54bc78266cac190db1c7.js",
-      "app-54bc78266cac190db1c7.js.map"
+      "app-d1ca84bca966c7e591a4.js",
+      "app-d1ca84bca966c7e591a4.js.map"
     ],
     "path---components-content-examples": [
       "path---components-content-examples-7bee90a4351a1ee1c1b7.js",
