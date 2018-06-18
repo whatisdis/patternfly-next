@@ -85,8 +85,8 @@
       "path---components-button-examples-full-3f12076ca29e5b973bd5.js.map"
     ],
     "path---": [
-      "path----9e6304c7af895ad493f5.js",
-      "path----9e6304c7af895ad493f5.js.map"
+      "path----1e9a39b12e659c6e259c.js",
+      "path----1e9a39b12e659c6e259c.js.map"
     ],
     "path---layouts-grid-examples": [
       "path---layouts-grid-examples-9e46cd502df93acda0b1.js",
@@ -208,10 +208,6 @@
       "path---components-backdrop-examples-b6bb08efb2b0f04a90c5.js",
       "path---components-backdrop-examples-b6bb08efb2b0f04a90c5.js.map"
     ],
-    "path---patterns": [
-      "path---patterns-c2446467957ec8d7cdc7.js",
-      "path---patterns-c2446467957ec8d7cdc7.js.map"
-    ],
     "component---src-patternfly-layouts-stack-examples-index-js": [
       "component---src-patternfly-layouts-stack-examples-index-js-0693df2db637b31c9c3b.js",
       "component---src-patternfly-layouts-stack-examples-index-js-0693df2db637b31c9c3b.js.map"
@@ -224,17 +220,13 @@
       "path---demos-modal-examples-e52b9b34d994c8a8f5d5.js",
       "path---demos-modal-examples-e52b9b34d994c8a8f5d5.js.map"
     ],
-    "path---patterns-full": [
-      "path---patterns-full-c2446467957ec8d7cdc7.js",
-      "path---patterns-full-c2446467957ec8d7cdc7.js.map"
-    ],
     "path---layouts-page-examples": [
       "path---layouts-page-examples-8ea9c52b29085e815e85.js",
       "path---layouts-page-examples-8ea9c52b29085e815e85.js.map"
     ],
     "component---src-site-layouts-index-js": [
-      "component---src-site-layouts-index-js-5ee0aa75f09a1b9d22e8.js",
-      "component---src-site-layouts-index-js-5ee0aa75f09a1b9d22e8.js.map"
+      "component---src-site-layouts-index-js-7ed95e791fef0c9a73d9.js",
+      "component---src-site-layouts-index-js-7ed95e791fef0c9a73d9.js.map"
     ],
     "commons": [
       "commons-a3a6d7ef20aa92ec3745.js",
@@ -310,10 +302,6 @@
       "path---layouts-gallery-examples-full-ee25c37064d1c95fcb65.js",
       "path---layouts-gallery-examples-full-ee25c37064d1c95fcb65.js.map"
     ],
-    "component---src-site-pages-patterns-index-js": [
-      "component---src-site-pages-patterns-index-js-229aef735426044c20df.js",
-      "component---src-site-pages-patterns-index-js-229aef735426044c20df.js.map"
-    ],
     "path---layouts-grid-examples-full": [
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js",
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js.map"
@@ -323,8 +311,8 @@
       "path---components-form-examples-full-b33ddbb3299a54b39964.js.map"
     ],
     "app": [
-      "app-bf271110017f8b4afec7.js",
-      "app-bf271110017f8b4afec7.js.map"
+      "app-32d8e26f1a2e97c6180e.js",
+      "app-32d8e26f1a2e97c6180e.js.map"
     ],
     "path---components-content-examples": [
       "path---components-content-examples-7bee90a4351a1ee1c1b7.js",
@@ -343,8 +331,8 @@
       "path---components-title-examples-71be788db861feb80daa.js.map"
     ],
     "path---guidelines": [
-      "path---guidelines-16231cbdf403b306af16.js",
-      "path---guidelines-16231cbdf403b306af16.js.map"
+      "path---guidelines-fb5c3ba044fdb0925b8c.js",
+      "path---guidelines-fb5c3ba044fdb0925b8c.js.map"
     ],
     "component---src-patternfly-components-backdrop-examples-index-js": [
       "component---src-patternfly-components-backdrop-examples-index-js-12aa0b4af6214f292465.js",
@@ -367,8 +355,8 @@
       "component---src-patternfly-layouts-level-examples-index-js-3158c31e344e85276ced.js.map"
     ],
     "path---contribution": [
-      "path---contribution-ebddd52062887bf49e67.js",
-      "path---contribution-ebddd52062887bf49e67.js.map"
+      "path---contribution-a6569d06d633aa02850f.js",
+      "path---contribution-a6569d06d633aa02850f.js.map"
     ],
     "path---layouts-level-examples-full": [
       "path---layouts-level-examples-full-243200bfb5c0f1af8d8a.js",
