@@ -3,6 +3,18 @@ backend:
   repo: jschuler/patternfly-next
 media_folder: static/assets/images
 public_folder: /img
+base: &base
+  fields:
+    - label: Template Key
+      name: templateKey
+      widget: hidden
+      default: about-page
+    - label: Title
+      name: title
+      widget: string
+    - label: Body
+      name: body
+      widget: markdown
 collections:
   - name: pages
     label: Pages
@@ -10,87 +22,27 @@ collections:
       - file: src/site/pages/accessibility-guide.md
         label: Accessibility
         name: accessibility
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
       - file: src/site/pages/contribution.md
         label: Contribution
         name: contribution
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
   - name: components
     label: Components
     files:
       - file: src/patternfly/components/Alert/docs/code.md
         label: Alert
         name: alert
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
       - file: src/patternfly/components/Backdrop/docs/code.md
         label: Backdrop
         name: backdrop
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
       - file: src/patternfly/components/Box/docs/code.md
         label: Box
         name: box
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
       - file: src/patternfly/components/MyComponent/docs/code.md
         label: MyComponent
         name: MyComponent
-        fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
+        <<: *base
