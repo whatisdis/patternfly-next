@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: jschuler/patternfly-next
+  repo: jschuler/patternfly-next
 
 media_folder: static/assets/images
 public_folder: /img
