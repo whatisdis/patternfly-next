@@ -9,13 +9,13 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/site/accessibility-guide.md"
+      - file: "src/site/pages/accessibility-guide.md"
         label: "Accessibility"
         name: "accessibility"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/site/contribution.md"
+      - file: "src/site/pages/contribution.md"
         label: "Contribution"
         name: "contribution"
         fields:
