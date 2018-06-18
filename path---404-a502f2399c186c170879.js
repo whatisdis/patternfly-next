@@ -1,2 +1,2 @@
-webpackJsonp([0xe70826b53c04],{528:function(e,t){e.exports={pathContext:{type:"page",category:"page",slug:"",name:"",title:""}}}});
+webpackJsonp([0xe70826b53c04],{529:function(e,t){e.exports={pathContext:{type:"page",category:"page",slug:"",name:"",title:""}}}});
 //# sourceMappingURL=path---404-a502f2399c186c170879.js.map

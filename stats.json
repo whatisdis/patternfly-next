@@ -85,8 +85,8 @@
       "path---components-button-examples-full-3f12076ca29e5b973bd5.js.map"
     ],
     "path---": [
-      "path----1e9a39b12e659c6e259c.js",
-      "path----1e9a39b12e659c6e259c.js.map"
+      "path----e2e39d4ea00bd3f74e48.js",
+      "path----e2e39d4ea00bd3f74e48.js.map"
     ],
     "path---layouts-grid-examples": [
       "path---layouts-grid-examples-9e46cd502df93acda0b1.js",
@@ -225,8 +225,8 @@
       "path---layouts-page-examples-8ea9c52b29085e815e85.js.map"
     ],
     "component---src-site-layouts-index-js": [
-      "component---src-site-layouts-index-js-7ed95e791fef0c9a73d9.js",
-      "component---src-site-layouts-index-js-7ed95e791fef0c9a73d9.js.map"
+      "component---src-site-layouts-index-js-bc22c9cefd898a230a4e.js",
+      "component---src-site-layouts-index-js-bc22c9cefd898a230a4e.js.map"
     ],
     "commons": [
       "commons-a3a6d7ef20aa92ec3745.js",
@@ -302,6 +302,10 @@
       "path---layouts-gallery-examples-full-ee25c37064d1c95fcb65.js",
       "path---layouts-gallery-examples-full-ee25c37064d1c95fcb65.js.map"
     ],
+    "path---upgrade-guide": [
+      "path---upgrade-guide-dae10a7e06a204e11dc7.js",
+      "path---upgrade-guide-dae10a7e06a204e11dc7.js.map"
+    ],
     "path---layouts-grid-examples-full": [
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js",
       "path---layouts-grid-examples-full-9e46cd502df93acda0b1.js.map"
@@ -311,8 +315,8 @@
       "path---components-form-examples-full-b33ddbb3299a54b39964.js.map"
     ],
     "app": [
-      "app-32d8e26f1a2e97c6180e.js",
-      "app-32d8e26f1a2e97c6180e.js.map"
+      "app-a88515b888505d3a37d8.js",
+      "app-a88515b888505d3a37d8.js.map"
     ],
     "path---components-content-examples": [
       "path---components-content-examples-7bee90a4351a1ee1c1b7.js",
