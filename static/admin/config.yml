@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/assets/images
+public_folder: /img
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/site/accessibility-guide.md"
+        label: "Accessibility"
+        name: "accessibility"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/site/contribution.md"
+        label: "Contribution"
+        name: "contribution"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
