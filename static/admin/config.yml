@@ -1,49 +1,96 @@
 backend:
   name: github
   repo: jschuler/patternfly-next
-
 media_folder: static/assets/images
 public_folder: /img
-
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: pages
+    label: Pages
     files:
-      - file: "src/site/pages/accessibility-guide.md"
-        label: "Accessibility"
-        name: "accessibility"
+      - file: src/site/pages/accessibility-guide.md
+        label: Accessibility
+        name: accessibility
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/site/pages/contribution.md"
-        label: "Contribution"
-        name: "contribution"
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - file: src/site/pages/contribution.md
+        label: Contribution
+        name: contribution
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-  - name: "components"
-    label: "Components"
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+  - name: components
+    label: Components
     files:
-      - file: "src/patternfly/components/Alert/docs/code.md"
-        label: "Alert"
-        name: "alert"
+      - file: src/patternfly/components/Alert/docs/code.md
+        label: Alert
+        name: alert
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/patternfly/components/Backdrop/docs/code.md"
-        label: "Backdrop"
-        name: "backdrop"
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - file: src/patternfly/components/Backdrop/docs/code.md
+        label: Backdrop
+        name: backdrop
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/patternfly/components/Box/docs/code.md"
-        label: "Box"
-        name: "box"
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - file: src/patternfly/components/Box/docs/code.md
+        label: Box
+        name: box
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - file: src/patternfly/components/MyComponent/docs/code.md
+        label: MyComponent
+        name: MyComponent
+        fields:
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: about-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown

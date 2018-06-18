@@ -5,6 +5,8 @@ const inflection = require('inflection');
 const path = require('path');
 const program = require('commander');
 const scaffold = require('scaffold-helper');
+const yaml = require('js-yaml');
+const fs = require('fs');
 
 const PROJECT_DIR = path.resolve(__dirname, '../../');
 const BLUEPRINTS_DIR = path.resolve(__dirname, '../blueprints');
@@ -87,6 +89,37 @@ program
       },
       blueprintData
     );
+
+    let config = {};
+    const yamlFile = path.join(`${PROJECT_DIR}/static/admin/config.yml`);
+    try {
+      config = yaml.safeLoad(fs.readFileSync(yamlFile, 'utf8'));
+      config.collections[1].files.push({
+        file: `src/patternfly/components/${
+          blueprintData.namePascalized
+        }/docs/code.md`,
+        label: blueprintData.namePascalized,
+        name: blueprintData.namePascalized,
+        fields: [
+          {
+            label: 'Template Key',
+            name: 'templateKey',
+            widget: 'hidden',
+            default: 'about-page'
+          },
+          { label: 'Title', name: 'title', widget: 'string' },
+          { label: 'Body', name: 'body', widget: 'markdown' }
+        ]
+      });
+      console.log(config);
+      fs.writeFileSync(yamlFile, yaml.safeDump(config), 'utf8', err => {
+        if (err) {
+          console.log(err);
+        }
+      });
+    } catch (e) {
+      console.log(e);
+    }
 
     console.log(`Created ${type}: ${name}`);
   });
