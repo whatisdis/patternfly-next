@@ -1,3 +1,8 @@
+---
+templateKey: 'about-page'
+path: /accessibility
+title: Accessibility Guide
+---
 # Accessibility Guide
 
 *Please note, this guide is a work in progress and will be updated regularly. We welcome your comments and feedback.*
