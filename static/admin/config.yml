@@ -30,7 +30,6 @@ collections:
       - file: src/patternfly/components/Alert/docs/code.md
         label: Alert
         name: alert
-        <<: *base
       - file: src/patternfly/components/Backdrop/docs/code.md
         label: Backdrop
         name: backdrop
