@@ -3,9 +3,7 @@ templateKey: about-page
 ---
 # Accessibility Guide
 
-`Modified through admin interface :)`
-`Modified through git push to remote from local :)`
-`Modified through github editor :)`
+`Hello world`
 
 _Please note, this guide is a work in progress and will be updated regularly. We welcome your comments and feedback._
 
