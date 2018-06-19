@@ -1,3 +1,6 @@
+---
+templateKey: about-page
+---
 # Accessibility Guide
 
 `Modified through admin interface :)`

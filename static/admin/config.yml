@@ -5,6 +5,10 @@ media_folder: static/assets/images
 public_folder: /img
 base: &base
   fields:
+    - label: Template Key
+      name: templateKey
+      widget: hidden
+      default: about-page
     - label: Body
       name: body
       widget: markdown

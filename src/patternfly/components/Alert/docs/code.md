@@ -1,6 +1,5 @@
 ---
 templateKey: about-page
-title: Overview
 ---
 ## Overview
 
