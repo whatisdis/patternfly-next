@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jschuler/patternfly-next
+  repo: whatisdis/patternfly-next
 media_folder: static/assets/images
 public_folder: /img
 base: &base
@@ -41,8 +41,4 @@ collections:
       - file: src/patternfly/components/Box/docs/code.md
         label: Box
         name: box
-        <<: *base
-      - file: src/patternfly/components/MyComponent/docs/code.md
-        label: MyComponent
-        name: MyComponent
         <<: *base
