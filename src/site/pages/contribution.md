@@ -1,8 +1,3 @@
----
-templateKey: 'about-page'
-path: /contribution
-title: Contribution Guidelines
----
 # Contribution Guidelines
 
 ## Naming Blocks

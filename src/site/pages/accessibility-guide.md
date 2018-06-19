@@ -1,7 +1,3 @@
----
-templateKey: about-page
-title: Accessibility Guide
----
 # Accessibility Guide
 
 `Modified through admin interface :)`
