@@ -1,3 +1,5 @@
+---
+---
 ## Overview
 
 This component puts an image on the background with an svg filter applied to it.

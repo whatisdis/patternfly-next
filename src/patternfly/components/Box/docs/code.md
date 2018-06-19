@@ -1,5 +1,4 @@
 ---
-junk: asd
 ---
 ## Overview
 

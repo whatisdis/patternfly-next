@@ -3,8 +3,8 @@ backend:
   repo: whatisdis/patternfly-next
 media_folder: static/assets/images
 public_folder: /img
-base: &base
-  fields:
+base:
+  fields: &ref_0
     - label: Template Key
       name: templateKey
       widget: hidden
@@ -19,22 +19,47 @@ collections:
       - file: src/site/pages/accessibility-guide.md
         label: Accessibility
         name: accessibility
-        <<: *base
+        fields: *ref_0
       - file: src/site/pages/contribution.md
         label: Contribution
         name: contribution
-        <<: *base
+        fields: *ref_0
+      - file: src/site/pages/getting-started.md
+        label: Getting Started
+        name: getting-started
+        fields: *ref_0
+      - file: src/site/pages/guidelines.md
+        label: Guidelines
+        name: guidelines
+        fields: *ref_0
   - name: components
     label: Components
     files:
       - file: src/patternfly/components/Alert/docs/code.md
         label: Alert
         name: alert
+        fields: *ref_0
       - file: src/patternfly/components/Backdrop/docs/code.md
         label: Backdrop
         name: backdrop
-        <<: *base
+        fields: *ref_0
+      - file: src/patternfly/components/BackgroundImage/docs/code.md
+        label: BackgroundImage
+        name: BackgroundImage
+        fields: *ref_0
+      - file: src/patternfly/components/Badge/docs/code.md
+        label: Badge
+        name: Badge
+        fields: *ref_0
       - file: src/patternfly/components/Box/docs/code.md
         label: Box
         name: box
-        <<: *base
+        fields: *ref_0
+      - file: src/patternfly/components/MyComponent/docs/code.md
+        label: MyComponent
+        name: MyComponent
+        fields: *ref_0
+      - file: src/patternfly/components/MyComponent2/docs/code.md
+        label: MyComponent2
+        name: MyComponent2
+        fields: *ref_0

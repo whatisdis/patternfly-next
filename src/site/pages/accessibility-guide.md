@@ -1,5 +1,4 @@
 ---
-templateKey: about-page
 ---
 # Accessibility Guide
 
