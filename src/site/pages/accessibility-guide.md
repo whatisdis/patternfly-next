@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 ---
-# Accessibility Guide
+# Accessibility Guide for all
 
 `Hello world`
 
