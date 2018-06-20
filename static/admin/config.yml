@@ -2,7 +2,6 @@ backend:
   name: github
   repo: whatisdis/patternfly-next
 media_folder: static/assets/images
-public_folder: /img
 publish_mode: editorial_workflow
 display_url: https://patternfly-cms.netlify.com
 base:
