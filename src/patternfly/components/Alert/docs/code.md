@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 ---
-## Sweet Alert Overview
+## My awesome Sweet Alert Overview
 
 Always add a modifier class. Do not use `.pf-c-alert` on its own.
 
