@@ -34,7 +34,6 @@ export default ({ children, data }) => {
     });
     return accum;
   }, {});
-
   return (
     <div className="layout">
       <Helmet>
@@ -56,6 +55,7 @@ export default ({ children, data }) => {
         <h1>
           <Link to="/">PF Next</Link>
         </h1>
+        <a href="/admin/">Admin</a>
         <Navigation links={allPages.page} isHorizontal />
       </header>
       <main className="layout__main">
