@@ -1,11 +1,15 @@
 ---
 templateKey: about-page
 ---
-# Accessibility Guide for all test again
+# Update to the Accessibility Guide for all test again
+
+![]()
 
 ![accessibility image](/img/accessibility-hexagons.png)
 
 _Please note, this guide is a work in progress and will be updated regularly. We welcome your comments and feedback._
+
+
 
 The goal of software accessibility is to remove barriers and create inclusive product experiences that work for everyone, regardless of physical ability.
 
